@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500&display=swap");
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Sen";
+  font-weight: 700;
+}
